@@ -18,4 +18,10 @@ npm run build
 npm run build --report
 ```
 
+# vue-strap components
+
+This project included the following demos vue-strap components:
+
+- [localhost:8080/modal](http://localhost:8080/modal), that include a Bootstrap Modal example.
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
