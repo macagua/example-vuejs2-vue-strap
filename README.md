@@ -24,4 +24,10 @@ This project included the following demos vue-strap components:
 
 - [localhost:8080/modal](http://localhost:8080/modal), that include a Bootstrap Modal example.
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# Reference
+
+For detailed explanation on how things work, checkout the following links:
+
+- [The webpack guide](http://vuejs-templates.github.io/webpack/).
+- [The docs for vue-loader](http://vuejs.github.io/vue-loader).
+- [The docs for vue-strap](http://yuche.github.io/vue-strap/).
